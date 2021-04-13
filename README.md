@@ -5,3 +5,5 @@ player pressed . By navigating through the indicating text on the screen the pla
 position of the sub. As you find the sub , a BOOM word reflects on the screen .
 
 Starting my journey into the world of android ...
+You can also add some screenshots here as follows :
+
